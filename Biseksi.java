@@ -1,4 +1,4 @@
-package com.tugas;
+
 /**
  * @author M. Ikhsan Fikri
  * NPM       : 2008107010020
